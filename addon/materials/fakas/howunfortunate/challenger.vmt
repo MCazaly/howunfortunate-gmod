@@ -1,0 +1,12 @@
+"UnlitGeneric" {
+  "$baseTexture" "fakas/howunfortunate/challenger"
+  "$surfaceprop" "Default"
+  "$translucent" 1
+  "Proxies" {
+    "AnimatedTexture" {
+      "animatedTextureVar" "$basetexture"
+       "animatedTextureFrameNumVar" "$frame"
+       "animatedTextureFrameRate" "30"
+    }
+  }
+}

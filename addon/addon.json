@@ -1,0 +1,14 @@
+{
+	"title"		:	"[TTT2] How Unfortunate!",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun", "cartoon" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		".git",
+		".gitignore"
+		".idea"
+	]
+}
